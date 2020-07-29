@@ -15,7 +15,7 @@ public class ToolManager {
         return instance;
     }
 
-    public void init(Application application) {
+    public static void init(Application application) {
         instance = application;
     }
 }
