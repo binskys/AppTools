@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">module_tools</string>
+    <!-- &#8194; => 半个中文宽度 -->
+    <string name="str_empty8194">&#8194;</string>
+    <!-- &#8195; => 一个中文宽度 -->
+    <string name="str_empty8195">&#8195;</string>
 </resources>
