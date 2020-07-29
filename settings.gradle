@@ -1,0 +1,2 @@
+include ':app', ':module_tools'
+rootProject.name='AppTools'
