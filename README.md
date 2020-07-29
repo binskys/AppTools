@@ -10,3 +10,18 @@ StatusBarUtils.setStatusBarDarkTheme(this, true);
 StatusBarUtils.setNavigationBarColor(this, R.color.color_000);
 ## Application 的 onCreate()方法添加
 ToolManager.init(this);
+
+Step 1. Add the JitPack repository to your build file
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+	
+ Step 2. Add the dependency
+ 
+ dependencies {
+ 	        implementation 'com.github.binskys:AppTools:v0.0.2'
+ 	}
