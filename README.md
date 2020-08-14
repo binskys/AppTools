@@ -26,8 +26,13 @@ ToolManager.init(this);
  dependencies {
  	        implementation 'com.github.binskys:AppTools:v0.0.6'
  	}
-##更多讲解 
-状态栏RN调用方法
-一行代码继承腾讯Bugly功能
-文档：AppTool依赖库使用手册.note
+	
+##更多讲解
+
+##状态栏RN调用方法
+
+##一行代码继承腾讯Bugly功能
+
+##文档：AppTool依赖库使用手册.note
+
 ###链接：http://note.youdao.com/noteshare?id=1174549b414e0a383ed82e52c128fa62&sub=448B16B3B4C6489A8DBCEFB2CC635471
