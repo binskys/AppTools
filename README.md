@@ -24,7 +24,7 @@ ToolManager.init(this);
  ###Step 2. Add the dependency
 
  dependencies {
- 	        implementation 'com.github.binskys:AppTools:v0.0.3'
+ 	        implementation 'com.github.binskys:AppTools:v0.0.6'
  	}
 ##更多讲解 
 状态栏RN调用方法
